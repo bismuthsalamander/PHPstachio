@@ -1,5 +1,5 @@
 # PHPstachio
-Encrypted PHP web shell generator.  Requires openssl on the machine that generates the shell and on the target machine.
+Encrypted PHP web shell generator.  Requires openssl on the machine that generates the shell and on the target machine.  Tested on Win64 and Kali.
 
 Usage:
 

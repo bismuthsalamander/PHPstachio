@@ -3,7 +3,8 @@ Encrypted PHP web shell generator.  Requires openssl on the machine that generat
 
 Usage:
 
-```git clone https://github.com/bismuthsalamander/PHPstachio/
+```
+git clone https://github.com/bismuthsalamander/PHPstachio/
 cd PHPstachio
 php generate.php #enter password when asked
 #copy web shell to target web server, visit page in browser and type password
